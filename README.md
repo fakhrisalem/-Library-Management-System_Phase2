@@ -43,3 +43,16 @@ Furthermore, a user should be able to view reviews for a book. A user can reques
 attributes, functions, and relations.  
 ● Screenshots of the 2 Sequence diagrams on two of the most complex use cases in 
 your system. 
+
+
+
+
+
+                                   Class diagram
+                                   ![Blank diagram (1)](https://github.com/user-attachments/assets/282a3442-0784-4811-8aa9-8aa96471bca2)
+
+
+
+
+
+
