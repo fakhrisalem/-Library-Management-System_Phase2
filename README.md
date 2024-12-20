@@ -49,10 +49,11 @@ your system.
 
 
                                    Class diagram
-                                   ![Blank diagram (1)](https://github.com/user-attachments/assets/282a3442-0784-4811-8aa9-8aa96471bca2)
+                                 
 
 
 
 
+![Blank diagram (1)](https://github.com/user-attachments/assets/f4954cc1-11fb-4d8d-a6bc-4fea1737b827)
 
 
