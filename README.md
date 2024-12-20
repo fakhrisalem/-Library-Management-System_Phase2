@@ -57,3 +57,13 @@ your system.
 ![Blank diagram (1)](https://github.com/user-attachments/assets/f4954cc1-11fb-4d8d-a6bc-4fea1737b827)
 
 
+
+
+                                               Sequence diagram
+
+
+![Sequence diagram](https://github.com/user-attachments/assets/13f05903-3592-4eaa-bc20-e11ea93dcd96)
+
+                                               
+
+
